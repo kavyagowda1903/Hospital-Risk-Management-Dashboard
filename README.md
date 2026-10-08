@@ -116,7 +116,7 @@ These filters allow users to perform monthly and yearly analysis.
 
 ## 🖼️ Dashboard Preview
 
-![Hospital Emergency Room Dashboard]("C:\Users\Admin\OneDrive\Desktop\hospitalmanagement\Hospital Dashboard Final .jpg")
+![Hospital Emergency Room Dashboard](hospital-emergency-room-dashboard.jpg)
 
 ---
 
